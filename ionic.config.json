@@ -1,0 +1,7 @@
+{
+  "name": "miMensajero",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
